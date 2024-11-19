@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Student Dialog</string>
+    <string name="edit_id">Enter your student id</string>
+    <string name="edit_name">Enter your full name</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="add">Add new</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
